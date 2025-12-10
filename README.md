@@ -30,7 +30,7 @@ Welcome! Choose a language to start:
 ## 🟢 Bash Exercises
 <a name="bash-exercises"></a>
 
-#### Task 1: In the main folder, create the following files at the same time: file1, File2, 3file, afile, bfile, 4file, Filec Add their names to each file accordingly (file1 should contain the text “file1”, File2 should contain the text “File2” etc). Then create other1 symbolic link to file1, and other2 hard link to afile. Use the appropriate command to check the existence of the link on the files.
+Task 1: In the main folder, create the following files at the same time: file1, File2, 3file, afile, bfile, 4file, Filec Add their names to each file accordingly (file1 should contain the text “file1”, File2 should contain the text “File2” etc). Then create other1 symbolic link to file1, and other2 hard link to afile. Use the appropriate command to check the existence of the link on the files.
 
 <details>
 <summary>Show Solution</summary>
@@ -39,7 +39,7 @@ Welcome! Choose a language to start:
 
 </details>
 
-#### Task 2: Create a folder named 'user' on the desktop that will contain folders named 'user1' and 'user2'. The user1 folder should contain files named 'myFirstFile' and 'mySecondFile'. User1's myFirstFile should contain the text "I create my first file". Then copy the contents of myFirstFile to mySecondFile and the command that will perform the copy operation should be renamed (you can put any name you like). And in the user2 folder, you should create a file named text that will contain the names of the files and folders in the home directory.
+Task 2: Create a folder named 'user' on the desktop that will contain folders named 'user1' and 'user2'. The user1 folder should contain files named 'myFirstFile' and 'mySecondFile'. User1's myFirstFile should contain the text "I create my first file". Then copy the contents of myFirstFile to mySecondFile and the command that will perform the copy operation should be renamed (you can put any name you like). And in the user2 folder, you should create a file named text that will contain the names of the files and folders in the home directory.
 
 <details>
 <summary>Show Solution</summary>
