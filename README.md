@@ -2,11 +2,30 @@
 
 Welcome! Choose a language to start:
 
-| Bash | C | JavaScript |
-|------|---|------------|
-| [![Bash](assets/bash.png)](#bash-exercises) | [![C](assets/c.png)](#c-exercises) | [![JS](assets/js.png)](#js-exercises) |
-
----
+<table>
+  <tr>
+    <th>Bash</th>
+    <th>C</th>
+    <th>JavaScript</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="#bash-exercises">
+        <img src="assets/bash.png" width="120">
+      </a>
+    </td>
+    <td>
+      <a href="#c-exercises">
+        <img src="assets/c.png" width="120">
+      </a>
+    </td>
+    <td>
+      <a href="#js-exercises">
+        <img src="assets/js.png" width="120">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🟢 Bash Exercises
 <a name="bash-exercises"></a>
