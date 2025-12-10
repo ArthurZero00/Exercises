@@ -32,9 +32,12 @@ Welcome! Choose a language to start:
 
 ### Task 1: In the main folder, create the following files at the same time: file1, File2, 3file, afile, bfile, 4file, Filec Add their names to each file accordingly (file1 should contain the text “file1”, File2 should contain the text “File2” ls .. ..). Then create other1 symbolic link to file1, and other2 hard link to afile. Use the appropriate command to check the existence of the link on the files.
 
+<details>
 <summary>Show Solution</summary>
 
-[View Solution](bash/task1.sh)
+[View Solution](bash/task1.c)
+
+</details>
 
 
 
